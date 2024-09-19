@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143084655599",
+    "project_id": "appviajens-836cf",
+    "storage_bucket": "appviajens-836cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143084655599:android:bfd572d515d1248f4ddc1a",
+        "android_client_info": {
+          "package_name": "com.mycompany.appviagens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPb0RCaWOrhB0r-DCBuCRtLleVW5OHSUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
